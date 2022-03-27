@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=slice&color=D0A9F5&height=300&section=header&text=Juyeong Lee&fontSize=70" />
 </p> -->
 
-<!-- <div align="center"> -->
+<div align="center"> 
   
 <h2>✨ ABOUT ME ✨</h2>
 👩‍💻Front-End Developer
@@ -28,8 +28,8 @@
 </div>
 <br/>
 <br/>
-<!-- </div>
- -->
+</div>
+
 <!-- [![Juyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyi3479)](https://github.com/jyi3479/github-readme-stats)                     -->
 
 
