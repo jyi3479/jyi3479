@@ -7,7 +7,7 @@
 <h2>✨ ABOUT ME ✨</h2>
 👩‍💻Front-End Developer
   <br/>
-👉Here's my <a target="_blank" href=""><img align="center" src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white"/></a> <a target="_blank" href="mailto:jyi3479@gmail.com"><img align="center" src="https://img.shields.io/badge/jyi3479@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+👉Here's my <a target="_blank" href="https://www.notion.so/Juyeong-713ad1cd96ae4cf5823b607a67eba1a0"><img align="center" src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white"/></a> <a target="_blank" href="mailto:jyi3479@gmail.com"><img align="center" src="https://img.shields.io/badge/jyi3479@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <!-- 내 노션 주소 : https://www.notion.so/Juyeong-713ad1cd96ae4cf5823b607a67eba1a0 -->
 <br/>
 <br/>
